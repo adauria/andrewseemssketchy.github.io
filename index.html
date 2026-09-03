@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+<section class="hero">
+<h1>Andrew Seems Sketchy</h1>
+<p class="tagline">Seems sketchy. Is, in fact, just sketching.</p>
+<p>A companion sketchbook for the YouTube channel: urban sketching and watercolor from Wake Forest, NC and around the Triangle. This site is the home for the written journal, the sketch archive, and eventually the shop &mdash; everything the channel doesn't have room for.</p>
+</section>
+<div class="section-head">
+<h2>From the journal</h2>
+<a href="{{ '/journal/' | relative_url }}">All posts &rarr;</a>
+</div>
+<ul class="post-list">
+{% for post in site.posts limit:5 %}
+<li>
+<p class="post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+<p>{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+</li>
+{% endfor %}
+</ul>
+<div class="section-head">
+<h2>From the sketchbook</h2>
+</div>
+<p class="placeholder-note">Gallery coming soon &mdash; real scans go here next.</p>
+<div class="section-head">
+<h2>From the shop</h2>
+</div>
+<p class="placeholder-note">Prints, originals, and digital downloads will list here once the shop opens.</p>
