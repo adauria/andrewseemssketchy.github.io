@@ -1,0 +1,5 @@
+title: Andrew Seems Sketchy
+description: "A companion sketchbook for the Andrew Seems Sketchy YouTube channel: urban sketching and watercolor from Wake Forest, NC and around the Triangle."
+url: "https://andrewseemssketchy.com"
+markdown: kramdown
+permalink: /journal/:title/
