@@ -17,11 +17,13 @@ This site is the written companion to the channel: a home for the sketch archive
 ## Kit
 
 Sketchbooks and Paper
+
 Dry/MultiMedia Sketchbooks - Beechmore Books (A5 and 8" Square), Jerry's Artarama
 Watercolor Pads/Blocks - Arches, Baohong, Lightwish, Marie's 
 Watercolor Sketchbooks - Semleart, Lightwish, Remowith, Marie's
 
 Pencils
+
 Traditional - A variety of graphite pencils from nearly any brand (Dixon, Blackwing, Prismacolor Turquoise, et al.) ranging from 2H to 6B, mostly 2B
 Mechanical - 0.5mm to 0.9mm from Koh-I-Noor Rapidomatic, Pentel Graph Gear, and Nicpro, usually HB or 2B lead
 Lead Holder - Staedtler Mars Technico 2mm lead holder and Nicpro 2mm lead holder, Generic 5.6mm lead holder, 2B lead
@@ -31,6 +33,7 @@ Charcoal/Conte - Conte a Paris Pierre Noire 2B, generic pencils, compressed, and
 Sharpeners - Kum long point sharpener, Afmat long point sharpener, Staedtler 502 2mm lead pointer
 
 Pens
+
 Ballpoint - Bic Cristal Xtra Smooth, medium 1.0mm in blue and black, Bic 4-Color
 Fountain - Twibi Eco, Lamy Safari, Platinum Preppy, Jinhao 82, Writech retractable, GC Quill fude nib
 Ink - Platinum Carbon Ink (waterproof, fountain pen safe - my favorite!), Pelikan 4001 Brilliant Black
@@ -41,6 +44,7 @@ Dip Pens - Kodrily, New York Central India Ink
 White Pens - Sakura Gelly Roll Classic White
 
 Painting
+
 Watercolors - Daniel Smith, Winsor & Newton Professional, Marie's Masters, Art Whale
 Gouache - Art Whale, HIMI
 Brushes - Princeton Velvetouch, Princeton Heritage, Princeton Aqua Elite, Phoenix Professional Mop Brushes
