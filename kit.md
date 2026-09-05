@@ -6,11 +6,11 @@ permalink: /kit/
 
 # My Kit
 
-Here's everything I actually reach for - papers, pencils, pens, and paint. This is a running inventory, not a fixed "recommended list": it changes slowly as I try new things.
+Here's everything I actually reach for: papers, pencils, pens, and paint. This is a running inventory, not a fixed "recommended list": it changes slowly as I try new things.
 
 <!--
 Uncomment once Blick (or another) affiliate links are live on this page.
-<p class="placeholder-note">Heads up: some of the links on this page are affiliate links — mainly through Blick Art Materials. If you buy something after cliscking one, I may earn a small commission at no extra cost to you. I only link to things I actually use and would recommend anyway.</p>
+<p class="placeholder-note">Heads up: some of the links on this page are affiliate links, mainly through Blick Art Materials. If you buy something after clicking one, I may earn a small commission at no extra cost to you. I only link to things I actually use and would recommend anyway.</p>
 -->
 
 <div class="section-head">
@@ -96,7 +96,7 @@ Uncomment once Blick (or another) affiliate links are live on this page.
 
 **Ink**
 
-- Platinum Carbon Ink (waterproof, fountain-pen safe — my favorite)
+- Platinum Carbon Ink (waterproof, fountain-pen safe, my favorite)
 - Pelikan 4001 Brilliant Black
 
 **Brush pens**

@@ -14,7 +14,7 @@ I draw a little bit of everything: urban scenes, nature, architecture, people, p
 
 This site is the written companion to the channel: a home for the sketch archive, longer journal posts that don't fit in a video description, and (eventually) a small shop for prints, originals, and digital downloads.
 
-Curious what's actually in my bag? I keep a running, regularly-updated [Kit page](/kit/) — papers, pencils, pens, and paint.
+Curious what's actually in my bag? I keep a running, regularly-updated [Kit page](/kit/): papers, pencils, pens, and paint.
 
 ## Elsewhere
 
