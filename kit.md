@@ -10,7 +10,7 @@ Here's everything I actually reach for — papers, pencils, pens, and paint. Thi
 
 <!--
 Uncomment once Blick (or another) affiliate links are live on this page.
-<p class="placeholder-note">Heads up: some of the links on this page are affiliate links — mainly through Blick Art Materials. If you buy something after clicking one, I may earn a small commission at no extra cost to you. I only link to things I actually use and would recommend anyway.</p>
+<p class="placeholder-note">Heads up: some of the links on this page are affiliate links — mainly through Blick Art Materials. If you buy something after cliscking one, I may earn a small commission at no extra cost to you. I only link to things I actually use and would recommend anyway.</p>
 -->
 
 <div class="section-head">
@@ -19,7 +19,7 @@ Uncomment once Blick (or another) affiliate links are live on this page.
 
 **Dry / mixed-media sketchbooks**
 
-- Beechmore Books (A5 and 8" Square) — via Jerry's Artarama
+- Beechmore Books (A5 and 8" Square)
 
 **Watercolor pads and blocks**
 
