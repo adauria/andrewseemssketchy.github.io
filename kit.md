@@ -6,7 +6,7 @@ permalink: /kit/
 
 # My Kit
 
-Here's everything I actually reach for — papers, pencils, pens, and paint. This is a running inventory, not a fixed "recommended list": it changes slowly as I try new things.
+Here's everything I actually reach for - papers, pencils, pens, and paint. This is a running inventory, not a fixed "recommended list": it changes slowly as I try new things.
 
 <!--
 Uncomment once Blick (or another) affiliate links are live on this page.
