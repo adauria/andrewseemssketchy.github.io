@@ -12,12 +12,13 @@
 <a class="brand" href="{{ '/' | relative_url }}">Andrew Seems Sketchy</a>
 <nav>
 <a href="{{ '/' | relative_url }}">Home</a>
+<a href="{{ '/gallery/' | relative_url }}">Gallery</a>
 <a href="{{ '/journal/' | relative_url }}">Journal</a>
 <a href="{{ '/about/' | relative_url }}">About</a>
 <a href="https://www.youtube.com/@AndrewSeemsSketchy">YouTube</a>
 </nav>
 </header>
-<main>
+<main{% if page.wide %} class="wide"{% endif %}>
 {{ content }}
 </main>
 <footer class="site-foot">
